@@ -12,7 +12,7 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-   git clone https://github.com/ваш-репозиторий.git
+   git clone https://github.com/QACAMYRAI/TestWork.git
    cd ваш-репозиторий
 
 2. Установите зависимости:
